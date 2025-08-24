@@ -1,0 +1,123 @@
+ID,Category,Amount,Expense_Date,Description
+3,Shopping,500.0,2025-08-18,Bought clothes
+5,Bills,1200.0,2025-08-15,Electricity bill
+6,Food,250.0,2025-08-20,Lunch with friends
+7,Transport,100.0,2025-08-19,Bus ticket
+8,Shopping,500.0,2025-08-18,Bought clothes
+9,Entertainment,300.0,2025-08-17,Movie tickets
+10,Bills,1200.0,2025-08-15,Electricity bill
+11,Food,250.0,2025-08-20,Lunch with friends
+12,Transport,100.0,2025-08-19,Bus ticket
+13,Shopping,500.0,2025-08-18,Bought clothes
+14,Entertainment,300.0,2025-08-17,Movie tickets
+15,Bills,1200.0,2025-08-15,Electricity bill
+16,Food,250.0,2025-08-20,Lunch with friends
+17,Transport,100.0,2025-08-19,Bus ticket
+18,Shopping,500.0,2025-08-18,Bought clothes
+19,Bills,1200.0,2025-08-15,Electricity bill
+20,Food,250.0,2025-08-20,Lunch with friends
+21,Transport,100.0,2025-08-19,Bus ticket
+22,Shopping,500.0,2025-08-18,Bought clothes
+23,Entertainment,300.0,2025-08-17,Movie tickets
+24,Bills,1200.0,2025-08-15,Electricity bill
+25,Food,250.0,2025-08-20,Lunch with friends
+26,Transport,100.0,2025-08-19,Bus ticket
+27,Shopping,500.0,2025-08-18,Bought clothes
+28,Entertainment,300.0,2025-08-17,Movie tickets
+29,Bills,1200.0,2025-08-15,Electricity bill
+30,Food,250.0,2025-08-20,Lunch with friends
+31,Transport,100.0,2025-08-19,Bus ticket
+32,Shopping,500.0,2025-08-18,Bought clothes
+33,Bills,1200.0,2025-08-15,Electricity bill
+34,Food,250.0,2025-08-20,Lunch with friends
+35,Transport,100.0,2025-08-19,Bus ticket
+36,Shopping,500.0,2025-08-18,Bought clothes
+37,Entertainment,300.0,2025-08-17,Movie tickets
+38,Bills,1200.0,2025-08-15,Electricity bill
+39,Food,250.0,2025-08-20,Lunch with friends
+40,Transport,100.0,2025-08-19,Bus ticket
+41,Shopping,500.0,2025-08-18,Bought clothes
+42,Entertainment,300.0,2025-08-17,Movie tickets
+43,Bills,1200.0,2025-08-15,Electricity bill
+44,Transport,100.0,2025-08-19,Bus ticket
+45,Shopping,500.0,2025-08-18,Bought clothes
+46,Bills,1200.0,2025-08-15,Electricity bill
+47,Food,250.0,2025-08-20,Lunch with friends
+48,Transport,100.0,2025-08-19,Bus ticket
+49,Shopping,500.0,2025-08-18,Bought clothes
+50,Entertainment,300.0,2025-08-17,Movie tickets
+51,Bills,1200.0,2025-08-15,Electricity bill
+52,Food,250.0,2025-08-20,Lunch with friends
+53,Transport,100.0,2025-08-19,Bus ticket
+54,Shopping,500.0,2025-08-18,Bought clothes
+55,Entertainment,300.0,2025-08-17,Movie tickets
+56,Bills,1200.0,2025-08-15,Electricity bill
+57,Food,250.0,2025-08-20,Lunch with friends
+58,Transport,100.0,2025-08-19,Bus ticket
+59,Shopping,500.0,2025-08-18,Bought clothes
+60,Bills,1200.0,2025-08-15,Electricity bill
+61,Food,250.0,2025-08-20,Lunch with friends
+62,Transport,100.0,2025-08-19,Bus ticket
+63,Shopping,500.0,2025-08-18,Bought clothes
+64,Entertainment,300.0,2025-08-17,Movie tickets
+65,Bills,1200.0,2025-08-15,Electricity bill
+66,Food,250.0,2025-08-20,Lunch with friends
+67,Transport,100.0,2025-08-19,Bus ticket
+68,Shopping,500.0,2025-08-18,Bought clothes
+69,Entertainment,300.0,2025-08-17,Movie tickets
+70,Bills,1200.0,2025-08-15,Electricity bill
+71,Food,250.0,2025-08-20,Lunch with friends
+72,Transport,100.0,2025-08-19,Bus ticket
+73,Shopping,500.0,2025-08-18,Bought clothes
+74,Bills,1200.0,2025-08-15,Electricity bill
+75,Food,250.0,2025-08-20,Lunch with friends
+76,Transport,100.0,2025-08-19,Bus ticket
+77,Shopping,500.0,2025-08-18,Bought clothes
+78,Entertainment,300.0,2025-08-17,Movie tickets
+79,Bills,1200.0,2025-08-15,Electricity bill
+80,Food,250.0,2025-08-20,Lunch with friends
+81,Transport,100.0,2025-08-19,Bus ticket
+82,Shopping,500.0,2025-08-18,Bought clothes
+83,Entertainment,300.0,2025-08-17,Movie tickets
+84,Bills,1200.0,2025-08-15,Electricity bill
+85,Transport,100.0,2025-08-19,Bus ticket
+86,Shopping,500.0,2025-08-18,Bought clothes
+87,Bills,1200.0,2025-08-15,Electricity bill
+88,Food,250.0,2025-08-20,Lunch with friends
+89,Transport,100.0,2025-08-19,Bus ticket
+90,Shopping,500.0,2025-08-18,Bought clothes
+91,Entertainment,300.0,2025-08-17,Movie tickets
+92,Bills,1200.0,2025-08-15,Electricity bill
+93,Food,250.0,2025-08-20,Lunch with friends
+94,Transport,100.0,2025-08-19,Bus ticket
+95,Shopping,500.0,2025-08-18,Bought clothes
+96,Entertainment,300.0,2025-08-17,Movie tickets
+97,Bills,1200.0,2025-08-15,Electricity bill
+98,Food,250.0,2025-08-20,Lunch with friends
+99,Transport,100.0,2025-08-19,Bus ticket
+100,Shopping,500.0,2025-08-18,Bought clothes
+101,Bills,1200.0,2025-08-15,Electricity bill
+102,Food,250.0,2025-08-20,Lunch with friends
+103,Transport,100.0,2025-08-19,Bus ticket
+104,Shopping,500.0,2025-08-18,Bought clothes
+105,Entertainment,300.0,2025-08-17,Movie tickets
+106,Bills,1200.0,2025-08-15,Electricity bill
+107,Food,250.0,2025-08-20,Lunch with friends
+108,Transport,100.0,2025-08-19,Bus ticket
+109,Shopping,500.0,2025-08-18,Bought clothes
+110,Entertainment,300.0,2025-08-17,Movie tickets
+111,Bills,1200.0,2025-08-15,Electricity bill
+112,Food,250.0,2025-08-20,Lunch with friends
+113,Transport,100.0,2025-08-19,Bus ticket
+114,Shopping,500.0,2025-08-18,Bought clothes
+115,Bills,1200.0,2025-08-15,Electricity bill
+116,Food,250.0,2025-08-20,Lunch with friends
+117,Transport,100.0,2025-08-19,Bus ticket
+118,Shopping,500.0,2025-08-18,Bought clothes
+119,Entertainment,300.0,2025-08-17,Movie tickets
+120,Bills,1200.0,2025-08-15,Electricity bill
+121,Food,250.0,2025-08-20,Lunch with friends
+122,Transport,100.0,2025-08-19,Bus ticket
+123,Shopping,500.0,2025-08-18,Bought clothes
+124,Entertainment,300.0,2025-08-17,Movie tickets
+125,Bills,1200.0,2025-08-15,Electricity bill
