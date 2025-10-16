@@ -215,7 +215,7 @@ public class ExpenseTracker {
                         conn.close();
                         return;
                     }
-                    default -> System.out.println("❌ Invalid choice!");
+                    default -> System.out.println("❌ Invalid choice! Please enter a valid choice");
                 }
             }
         } catch (Exception e) {
